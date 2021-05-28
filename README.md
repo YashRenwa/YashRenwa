@@ -1,8 +1,6 @@
 # Hi there 👋 I am Yash Renwa
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on firstly MYSELF and on a project Radio App with AI
 - 🌱 I’m currently learning UI/UX Design for Mobile App and Website
 - 👯 I’m looking to collaborate with people who have passion to grow themselves consistently
