@@ -1,11 +1,10 @@
 # Hi there 👋 I am Yash Renwa
 
 
-- 🔭 I’m currently working on firstly MYSELF and on a project Radio App with AI
-- 🌱 I’m currently learning UI/UX Design for Mobile App and Website
+- 🔭 Currently working on my website
 - 👯 I’m looking to collaborate with people who have passion to grow themselves consistently
-- 🤔 I’m looking for help with finding people who are into journey towards freedom, fulfillment and wealth
-- 💬 Ask me about life, Flutter, design, philosophy and tactics to be successfull
+- 🤔 I’m looking for help with finding people who are into journey towards freedom
+- 💬 Ask me about life, Flutter, design, philosophy and tactics do better at life
 - 📫 How to reach me: 
    - UPWORK: https://www.upwork.com/o/profiles/users/~01b9c18e2c3d596e49/
    - Linked In: http://linkedin.com/in/yash-renwa
@@ -18,10 +17,9 @@
 
 # My Skills
 
- - Java programming language is my favorite.
+ - Java is my favorite.
  - Flutter App Developer
  - Upwork and Fiverr Freelancer
- - Can say life coach 😅
 
 ##
 
