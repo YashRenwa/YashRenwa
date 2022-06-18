@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yash-renwa/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yash_renwa)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@yashrenwa)
-[![Upwork Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/o/profiles/users/~01b9c18e2c3d596e49/)
+[![Upwork Badge](https://img.shields.io/badge/Upwork-3b5998?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/o/profiles/users/~01b9c18e2c3d596e49/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yashrenwa.com/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Flutter+Developer;Top+rated+freelancer+on+Upwork)](https://git.io/typing-svg)
