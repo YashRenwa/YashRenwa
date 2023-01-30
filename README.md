@@ -8,9 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Flutter+Developer;Top+rated+freelancer+on+Upwork)](https://git.io/typing-svg)
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
-* 🔭 Currently working on my website
+* 🔭 Looking for SDE Roles
 * 👯 I’m looking to collaborate with people who have passion to grow themselves consistently
-* 🤔 I’m looking for help with finding people who are into journey towards freedom
 * 💬 Ask me about life, Flutter, design, philosophy and tactics do better at life
 <p align="center">
 
